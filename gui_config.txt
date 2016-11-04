@@ -1,0 +1,13 @@
+images/iconLogo.png
+11
+images/icon2.png
+images/icon4.png
+images/icon8.png
+images/icon16.png
+images/icon32.png
+images/icon64.png
+images/icon128.png
+images/icon256.png
+images/icon512.png
+images/icon1024.png
+images/icon2048.png
